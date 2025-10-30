@@ -1,7 +1,7 @@
 # Ex.No.6 Development of Python Code Compatible with Multiple AI Tools
 
 # Date:30.10.2025
-# Register no.
+# Register no.212223020008
 # Aim:
 Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights with Multiple AI Tools
 
@@ -157,21 +157,10 @@ if __name__ == "__main__":
     # Test Question 1
     question1 = "What are the benefits of renewable energy?"
     result1 = compare_answers(question1)
-    
-    # Test Question 2 (Optional)
-    question2 = "Explain quantum computing in simple terms."
-    result2 = compare_answers(question2)
-    
-    # Test Question 3 (Optional)
-    question3 = "Write a Python function to check if a number is prime."
-    result3 = compare_answers(question3)
-    
     print("\n" + "="*70)
-    print("EXPERIMENT COMPLETED SUCCESSFULLY")
     print("="*70)
 ```
-## Expected Output:
-## Sample Output:
+##  Output:
 ```
 text
 Question: What are the benefits of renewable energy?
