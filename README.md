@@ -174,13 +174,11 @@ if __name__ == "__main__":
 ## Sample Output:
 ```
 text
-======================================================================
 Question: What are the benefits of renewable energy?
-======================================================================
 ```
 ```
 ChatGPT Answer:
-----------------------------------------------------------------------
+
 Renewable energy offers numerous benefits including reduced greenhouse 
 gas emissions, decreased air pollution, energy independence, and 
 sustainable long-term energy sources. It helps combat climate change, 
@@ -188,11 +186,9 @@ creates jobs in green technology sectors, and reduces dependence on
 fossil fuels. Additionally, renewable sources like solar and wind 
 have minimal operating costs once installed.
 
-======================================================================
 ```
 ```
 Gemini Answer:
-----------------------------------------------------------------------
 Renewable energy sources provide significant advantages: they're 
 sustainable and won't run out, they produce little to no greenhouse 
 gas emissions during operation, they improve public health by reducing 
@@ -200,13 +196,10 @@ air pollution, and they enhance energy security. Renewable energy also
 stimulates economic growth through job creation and reduces electricity 
 costs in the long term.
 
-======================================================================
 ```
 Summary: The answers are different. Each model has its unique response style.
 
-======================================================================
-EXPERIMENT COMPLETED SUCCESSFULLY
-======================================================================
+
 ## Analysis Points:
 When comparing ChatGPT and Gemini, consider:
 
